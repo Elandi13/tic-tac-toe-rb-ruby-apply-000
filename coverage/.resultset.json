@@ -2,8 +2,6 @@
   "RSpec": {
     "coverage": {
       "/home/alluring-acrobat-4655/tic-tac-toe-rb-ruby-apply-000/lib/tic_tac_toe.rb": [
-        1,
-        null,
         null,
         1,
         null,
@@ -17,10 +15,6 @@
         null,
         1,
         0,
-        null,
-        null,
-        1,
-        0,
         0,
         0,
         0,
@@ -28,7 +22,7 @@
         null,
         null,
         1,
-        0,
+        3,
         null,
         null,
         1,
@@ -139,12 +133,10 @@
         0,
         0,
         0,
-        null,
-        null,
         null,
         null
       ]
     },
-    "timestamp": 1601230011
+    "timestamp": 1601230150
   }
 }
